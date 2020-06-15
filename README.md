@@ -41,5 +41,6 @@ pip 와 conda의 차이는 패키지 종속성을 관리하는 방법!
 https://speakerdeck.com/adrysn/paisseoneseo-pyeonhage-teseuteu-keiseu-jagseonghagi-pytest-travis-ci-docker
 https://hogni.tistory.com/24
 http://pythonstudy.xyz/python/article/405-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%97%91%EC%85%80-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0
+https://wikidocs.net/book/1657
 ```
  
