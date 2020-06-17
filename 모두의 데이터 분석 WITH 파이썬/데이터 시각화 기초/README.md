@@ -7,6 +7,7 @@
 * TIP *
 PYPLOT 모듈은 공학용 도구로 널리 알려진 MATLAB과 사용법이 유사하다.
 ```
+![image](https://user-images.githubusercontent.com/43161245/84894813-63b01800-b0dc-11ea-8cdd-677eb44449c0.png)
 ### 처음 하는 분들을 위해
 ```
 import matplotlib.pyplot as plt
