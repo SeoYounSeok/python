@@ -7,10 +7,11 @@
 
 준비 => 수집 => 조사분석 => 보고서
 ```
-### 
 
-PYTHON을 사용하는 이유?
+### PYTHON을 사용하는 이유?
 
+```
 " Life is short, You need python "
 ```
+
 
