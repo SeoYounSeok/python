@@ -6,6 +6,8 @@
 이외에도 많이 알려진 예를 몇 가지 들자면 온라인 사진 공유 서비스 인스타그램(Instagram),
 파일 동기화 서비스 드롭박스(Dropbox)등이 있다.
 ```
+![image](https://user-images.githubusercontent.com/43161245/85006251-d67cca00-b194-11ea-9215-784bbd12d959.png)
+
 ### 파이썬 장점
 ```
 1. 배우기 쉬워서 학습용으로 좋다.
@@ -36,6 +38,9 @@ pip 와 conda의 차이는 패키지 종속성을 관리하는 방법!
 
 # 환경 구축 끝 
 ```
+
+![image](https://user-images.githubusercontent.com/43161245/85006106-aa614900-b194-11ea-8eb9-be029f01c391.png)
+
 ### 출처
 ```
 https://speakerdeck.com/adrysn/paisseoneseo-pyeonhage-teseuteu-keiseu-jagseonghagi-pytest-travis-ci-docker
