@@ -1,4 +1,4 @@
-### [PyCon KR 2018] 진실은 언제나 하나! : Python으로 만나보는 Digital Forensic
+### [PyCon KR 2018] 진실은 언제나 하나! : Python으로 만나보는 Digital Forensic !
 
 - https://www.slideshare.net/ssuser5fc0a31/pycon-kr-2018-python-digital-forensic
 
