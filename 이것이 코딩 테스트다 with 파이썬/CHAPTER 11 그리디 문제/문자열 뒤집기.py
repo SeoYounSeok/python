@@ -1,3 +1,4 @@
+
 # 문자열 뒤집기
 # 0 과 1 로만 이루어진 문자열 S 
 # 연속된 숫자를 뒤집을 수 있다.
@@ -10,3 +11,17 @@
 # 최소 숫자를 구하시오. 
 
 # 0001100 -> 답 : 1
+
+abc = "0001100"
+result = 0
+
+if len(abc) == 0 :
+    print(0)
+
+for i in range(len(abc)-1):
+    if int(abc[i]) == int(abc[i+1]):
+        continue
+    else :
+        result += 1
+
+print(result - 1)
