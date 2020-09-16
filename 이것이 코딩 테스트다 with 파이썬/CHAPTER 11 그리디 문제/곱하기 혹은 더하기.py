@@ -4,3 +4,18 @@
 # 02984 # 답 : 576
 
 # 567 답 : 210
+# 입력값이  인트형이면?
+
+a = "02984"
+result = 0
+
+for i in range(len(a)):
+    # 0일 때도 있지만 1 일 때도 생각해야지 바보야 ㅡㅡ ..
+    # if a[i] == "0" or result == 0:
+    if num <= 1 or result <= 1:
+        result += int(a[i])
+
+    else:
+        result *= int(a[i])
+
+print(result) 

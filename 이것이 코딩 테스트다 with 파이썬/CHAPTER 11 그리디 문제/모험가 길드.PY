@@ -6,3 +6,26 @@
 
 # N = 5, 공포도 X가 2,3,1,2,2
 
+
+n = int(input())
+list = list(map(int, input().split()))
+
+count = 0
+
+list.sort()
+
+while len(list)  != 0:
+    a = list[len(list)-1]
+
+    if a <= len(list):
+        count += 1
+        for i in range(a):
+            list.pop()
+
+    else :
+        break
+
+print(count)
+
+# 풀이자체에서 틀림! 
+# 작은 것부터 찾아가는 습관
