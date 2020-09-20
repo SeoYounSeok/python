@@ -14,4 +14,6 @@
 " Life is short, You need python "
 ```
 
+### 인턴 ( ~ 9.21 )
+
 
