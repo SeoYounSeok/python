@@ -22,4 +22,4 @@ def solution(n):
         for j in range(len(arr)):
             answer.append(arr[i][j])
     print(answer)
-    return 1
+    return answer
