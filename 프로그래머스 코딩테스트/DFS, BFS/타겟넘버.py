@@ -10,7 +10,8 @@ def DFS(numbers, target, idx, value):
     return 
   if idx == N:
     return 
-
+  
+  # 5개 개수 지정해두고, + 또는  - 를 통해서 나타내는 것!
   DFS(numbers, target, idx+1, value + numbers[idx])
   DFS(numbers, target, idx+1, value - numbers[idx])
   
